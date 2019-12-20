@@ -14,4 +14,4 @@ And, of course, ExoPlayer 2 to loading and showing the videos. <br>
 I choose to do in MVP because is more easy for me to integrate with the Exoplayer component, that it is created in runtime.<br>
 <br>
 Run the Project<br>
-To run the project just clone or download the project, open it in Android Studio and execute for the device or emulator.
+To run the project just clone or download the project, open it in Android Studio and execute the project for a device or emulator.
