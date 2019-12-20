@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Challenge Test</string>
+    <string name="video">Video</string>
+    <string name="try_again">No work, try again.</string>
+</resources>

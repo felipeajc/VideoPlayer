@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">tech-challenge-mobile.s3.eu-central-1.amazonaws.com</domain>
+    </domain-config>
+</network-security>
