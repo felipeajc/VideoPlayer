@@ -66,6 +66,7 @@ dependencies {
 
     //Multi dex
     implementation 'com.android.support:multidex:1.0.3'
+    androidTestImplementation 'androidx.test:rules:1.2.0-beta01'
 
 
 }
